@@ -1,0 +1,31 @@
+
+{ "description": "Total.js Platform is a collection of server-side & client-side JavaScript/Node.js libraries, Web Components, icons, practices, and complete apps written in pure JavaScript, mostly without dependencies. Free and open-source.",  "icon": "fas fa-flag-checkered", "id": "3f38f001yr51c", "name": "Welcome", "linker": "welcome"}
+{ "description": "We won't rewrite Total.js v3 documentation to our new documentation tool, but the documentation of Total.j v3 will be still alive on the linke below:",  "icon": "ti ti-book", "id": "6a51b001om51c", "name": "Total.js v3", "linker": "total3"}
+{ "description": "Welcome to the Total.js framework documentation. Total.js is a Node.js framework targeted at creating server-side web applications, REST services, real-time applications, and much more. This documentation contains all information about the Total.js framework version 4.",  "icon": "ti ti-book", "id": "3dcf5001ti51c", "name": "Total.js v4", "linker": "total4"}
+{ "description": "DBMS is a simple Node.js ORM that is fully optimized for the Total.js framework and PostgreSQL database. The module offers excellent functionality.",  "icon": "ti ti-database", "id": "3e048001rx51c", "name": "DBMS", "linker": "dbms"}
+{ "description": "Total.js Web Components are built on Total.js UI Library - a client-side library for creating reusable UI components with many powerful features. UI library contains everything you need to create Single Page Applications.",  "icon": "far fa-pencil-paintbrush", "id": "3e047001su51c", "name": "UI components", "linker": "components"}
+{ "description": "",  "icon": "ti ti-icons", "id": "zDnYg6HRUAHr", "name": "Icons", "linker": "icons"}
+{ "description": "",  "icon": "far fa-plug", "id": "d76f4001fs51c", "name": "Extensions", "linker": "extensions"}
+{ "description": "",  "icon": "far fa-charging-station", "id": "6c221001eo51c", "name": "Total API", "linker": "totalapi"}
+{ "description": "",  "icon": "ti ti-monitor-heart-rate", "id": "zNxu3dXgEWFr", "name": "Monitoring", "linker": "monitoring"}
+{ "description": "",  "icon": "far fa-paint-brush", "id": "swhb001cs41d", "name": "UI Builder", "linker": "uibuilder"}
+{ "description": "",  "icon": "far fa-monitor-heart-rate", "id": "3eb95001nb51c", "name": "SuperAdmin", "linker": "superadmin"}
+{ "description": "",  "icon": "ti ti-plug", "id": "4DVETF7OLaJr", "name": "Pluginable", "linker": "pluginable"}
+{ "description": "",  "icon": "fal fa-window-restore", "id": "x96l001kb41d", "name": "OpenPlatform v5new", "linker": "openplatform"}
+{ "description": "",  "icon": "ti ti-code", "id": "3eb9c002by50c", "name": "Code", "linker": "code"}
+{ "description": "",  "icon": "ti ti-globe", "id": "3eb94001oh51c", "name": "CMS", "linker": "cms"}
+{ "description": "",  "icon": "far fa-check-circle", "id": "11arh001ih51d", "name": "Todomator", "linker": "todomator"}
+{ "description": "",  "icon": "far fa-exclamation-triangle", "id": "3eb9c001by51c", "name": "OpenPlatform (old)", "linker": "openplatform4"}
+{ "description": "",  "icon": "fas fa-project-diagram", "id": "fd443001rt51c", "name": "Flow v10+", "linker": "flow10"}
+{ "description": "",  "icon": "far fa-code-branch", "id": "d0adc001rl51c", "name": "FlowStream", "linker": "flowstream"}
+{ "description": "",  "icon": "fas fa-send-back", "id": "a4081001nm51c", "name": "Message Service", "linker": "tms"}
+{ "description": "",  "icon": "fal fa-object-ungroup", "id": "3eb8b001gc51c", "name": "Flow", "linker": "flow"}
+{ "description": "",  "icon": "far fa-user-circle", "id": "d665e001fs51c", "name": "OpenAuth", "linke    r": "openauth"}
+{ "description": "",  "icon": "fas fa-sync", "id": "d825b001fs51c", "name": "OpenSync", "linker": "opensync"}
+{ "description": "",  "icon": "far fa-envelope", "id": "otzc001kt41d", "name": "OpenMail", "linker": "openmail"}
+{ "description": "",  "icon": "far fa-copy", "id": "sut5002cs40d", "name": "OpenFiles", "linker": "openfiles"}
+{ "description": "",  "icon": "fas fa-history", "id": "sut5001cs41d", "name": "OpenLogger", "linker": "openlogger"}
+{ "description": "",  "icon": "far fa-box-up", "id": "tkcv001xl41d", "name": "OpenTemplates", "linker": "opentemplates"}
+{ "description": "",  "icon": "far fa-database", "id": "101du001po51d", "name": "OpenReports", "linker": "openreports"}
+{ "description": "",  "icon": "far fa-plug", "id": "d88b9001fs51c", "name": "Extensible", "linker": "extensible"}
+{ "description": "",  "icon": "fal fa-chess-board", "id": "124rh001kc51d", "name": "BannerSystem", "linker": "bannersystem"}

@@ -1,0 +1,15 @@
+{
+  "name": "devdocs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markdown-it": "^13.0.2",
+    "total4": "^0.0.91"
+  }
+}

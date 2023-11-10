@@ -1,0 +1,21 @@
+{
+	"routes": [
+		{
+			"method": "GET",
+			"url": "/",
+			"owner": "controller_default"
+		},
+		{
+			"method": "GET",
+			"url": "/{library}/",
+			"owner": "controller_default",
+			"params": "library:string"
+		},
+		{
+			"method": "GET",
+			"url": "/{library}/{doc}/{page}/",
+			"owner": "controller_default",
+			"params": "library:string,doc:string,page:string"
+		}
+	]
+}
