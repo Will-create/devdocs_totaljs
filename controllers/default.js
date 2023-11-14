@@ -7,7 +7,7 @@ exports.install = function() {
 function home() {
     var self = this;
     DATA.find('nosql/libraries').callback(function(err, response) {
-        self.view('index', { docs: response });
+        self.view('index', { docs: response});
     });
 }
 
