@@ -1,4 +1,3 @@
-
 { "description": "Total.js Platform is a collection of server-side & client-side JavaScript/Node.js libraries, Web Components, icons, practices, and complete apps written in pure JavaScript, mostly without dependencies. Free and open-source.",  "icon": "fas fa-flag-checkered", "id": "3f38f001yr51c", "name": "Welcome", "linker": "welcome"}
 { "description": "We won't rewrite Total.js v3 documentation to our new documentation tool, but the documentation of Total.j v3 will be still alive on the linke below:",  "icon": "ti ti-book", "id": "6a51b001om51c", "name": "Total.js v3", "linker": "total3"}
 { "description": "Welcome to the Total.js framework documentation. Total.js is a Node.js framework targeted at creating server-side web applications, REST services, real-time applications, and much more. This documentation contains all information about the Total.js framework version 4.",  "icon": "ti ti-book", "id": "3dcf5001ti51c", "name": "Total.js v4", "linker": "total4"}
